@@ -7,7 +7,7 @@
     
  
 - <b>Microsoft Azure</b>
-  [Windows Server Active Directory Lab](https://github.com/davidstlouis/Windows-Server-Active-Directory-Lab)
+ - [Windows Server Active Directory Lab](https://github.com/davidstlouis/Windows-Server-Active-Directory-Lab)
 
 <h2>🤳Connect with me:</h2>
 
