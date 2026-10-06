@@ -2,13 +2,12 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Azure (DNS CONFIGURATION LAB)</b>
+- <b> Microsoft Azure (DNS CONFIGURATION LAB)</b>
   - [Windows Server DNS Configuration & Troubleshooting Lab](https://github.com/davidstlouis/DNS-Lab-Windows-Server-DNS-Configuration-Troubleshooting)
     
  
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/davidstlouis/Active-directory)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/davidstlouis/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
