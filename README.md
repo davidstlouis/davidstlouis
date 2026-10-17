@@ -2,59 +2,71 @@
 
 I'm an aspiring IT professional with an **active Secret security clearance**, an A.S. in Cybersecurity, and currently pursuing a B.S. in Information Technology.
 
-I have experience supporting DoD operations, troubleshooting applications, and assisting end users. I'm developing my technical skills through hands-on projects involving Windows Server, Active Directory, Microsoft Azure, networking, and system administration.
+I have experience providing technical and administrative support in a DoD environment. I'm building my technical skills through hands-on projects involving Windows Server, Active Directory, Microsoft Azure, networking, and IT troubleshooting.
 
 ## 👨‍💻 Information Technology Projects
 
-### ☁️ Microsoft Azure / Windows Server
+### 🔹 Active Directory Lab
 
-**[Windows Server Active Directory Lab](https://github.com/davidstlouis/Windows-Server-Active-Directory-Lab)**
-- Deployed Active Directory Domain Services using Windows Server 2022 in Azure.
+**[View Project on GitHub](https://github.com/davidstlouis?tab=repositories&q=Active+Directory)**
+
+- Deployed Active Directory Domain Services on Windows Server 2022 in Microsoft Azure.
 - Created and managed users, Organizational Units (OUs), and security groups.
 - Joined a Windows 10 client to the domain and tested authentication.
 
-**[Windows Server DNS Configuration & Troubleshooting Lab](https://github.com/davidstlouis/DNS-Lab-Windows-Server-DNS-Configuration-Troubleshooting)**
-- Configured DNS services using Windows Server 2022.
-- Created DNS records and tested domain name resolution.
-- Troubleshot connectivity using `nslookup` and `ipconfig`.
+### 🔹 Windows Server DNS Configuration & Troubleshooting Lab
 
-**[Windows Server Group Policy Configuration & Troubleshooting Lab](https://github.com/davidstlouis/Windows-Server-Group-Policy-Configuration-Troubleshooting-Lab)**
-- Configured and managed Group Policy Objects (GPOs).
-- Applied domain policies to users and computers.
-- Tested and troubleshot policy application on Windows 10.
+**[View Project on GitHub](https://github.com/davidstlouis/DNS-Lab-Windows-Server-DNS-Configuration-Troubleshooting)**
 
-**[Windows Server File Sharing & NTFS Permissions Lab](https://github.com/davidstlouis/Windows-Server-File-Sharing-NTFS-Permissions-Lab)**
-- Configured shared folders on Windows Server 2022.
-- Managed NTFS and share permissions for domain users.
-- Tested access restrictions and resolved permission issues.
+- Configured DNS services on Windows Server 2022.
+- Created DNS records and verified domain name resolution.
+- Troubleshot DNS connectivity using `nslookup` and `ipconfig`.
 
-### 🌐 Networking & Troubleshooting
+### 🔹 Windows Server Group Policy Configuration & Troubleshooting Lab
 
-**[TCP/IP & Wireshark Network Traffic Analysis Lab](https://github.com/davidstlouis/TCP-IP-Wireshark-Network-Traffic-Analysis-Lab)**
+**[View Project on GitHub](https://github.com/davidstlouis/Windows-Server-Group-Policy-Configuration-Troubleshooting-Lab)**
+
+- Created and managed Group Policy Objects (GPOs) in Active Directory.
+- Configured user restrictions, screen lock settings, and password policies.
+- Verified and troubleshot policy application using `gpupdate` and `gpresult`.
+
+### 🔹 Windows Server File Sharing & NTFS Permissions Lab
+
+**[View Project on GitHub](https://github.com/davidstlouis/Windows-Server-File-Sharing-NTFS-Permissions-Lab)**
+
+- Configured SMB network shares and NTFS permissions on Windows Server 2022.
+- Managed folder access using Active Directory security groups.
+- Tested network drive mapping and troubleshot access-denied issues.
+
+### 🔹 TCP/IP & Wireshark Network Traffic Analysis Lab
+
+**[View Project on GitHub](https://github.com/davidstlouis/TCP-IP-Wireshark-Network-Traffic-Analysis-Lab)**
+
 - Captured and analyzed network traffic between Windows 10 and Windows Server 2022 using Wireshark.
-- Examined DNS, ICMP, and TCP traffic, including the TCP three-way handshake.
-- Troubleshot network connectivity and verified DNS resolution using Windows diagnostic tools.
+- Examined DNS, TCP, ICMP, and HTTP traffic to understand network communication.
+- Used network diagnostic tools to troubleshoot connectivity and analyze packet behavior.
 
 ## 🛠️ Technical Skills
 
-**Systems Administration:** Windows Server 2022, Windows 10/11, Active Directory, Group Policy, NTFS Permissions, File Sharing
+**Operating Systems:** Windows 10/11, Windows Server 2022
 
-**Networking:** TCP/IP, DNS, ICMP, Wireshark, Network Troubleshooting
+**Systems Administration:** Active Directory, Group Policy, NTFS Permissions, SMB File Sharing, User & Access Management
 
-**Cloud:** Microsoft Azure, Virtual Machines, Virtual Networking
+**Networking:** TCP/IP, DNS, ICMP, HTTP, Wireshark, Network Troubleshooting
 
-**IT Support:** ServiceNow, Incident Management, End-User Support, Application Troubleshooting, Account Management
+**Cloud Technologies:** Microsoft Azure, Virtual Machines, Virtual Networking
+
+**IT Support:** ServiceNow, Incident Management, Technical Troubleshooting, End-User Support, Application Support
 
 **Business Applications:** Microsoft Office 365, Outlook, Teams, Salesforce, DocuSign, Adobe Acrobat
 
-**Professional Skills:** Customer Service, Problem Solving, Communication, Documentation, Teamwork
+**Professional Skills:** Customer Service, Communication, Documentation, Problem Solving, Teamwork
 
 ## 🎯 Career Goals
 
-I'm pursuing opportunities in IT Support, Help Desk, and Junior Systems Administration, where I can apply my technical knowledge, expand my troubleshooting experience, and continue developing toward a career in systems engineering.
+I'm seeking opportunities in **IT Support, Help Desk, and Junior Systems Administration** where I can apply my technical knowledge, expand my troubleshooting skills, and continue growing toward a career in systems engineering.
 
 ## 🤝 Connect With Me
 
 - **GitHub:** [github.com/davidstlouis](https://github.com/davidstlouis)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/david-saint-louis-/)
-
